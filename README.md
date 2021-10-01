@@ -1,6 +1,7 @@
 # Flowing-lights-logic-circuit
 
 依靠逻辑电路芯片实现的流水灯
+![Main_Board](https://raw.githubusercontent.com/happyvalley-lmx/Flowing-lights-logic-circuit/main/pic/main_board.jpg)
 
 ## 简介
 
